@@ -38,6 +38,10 @@
 
 ![f](https://github.com/FredyDaz/ConversorChallenge/assets/132807585/c307bb35-201f-40e6-a227-6cef140df28f)
 
+## Ejemplo del funcionamiento
+
+![AluraChallenge2ConversorGif](https://github.com/FredyDaz/ConversorChallenge/assets/132807585/a5ec7808-de82-4394-a0d0-018de14d08ab)
+
 ## Construido con
 - Lenguaje de Programación: Java
 - Interfaz: Java Swing
